@@ -1,8 +1,5 @@
 #!/usr/bin/perl
 #
-# $workbook-> set_custom_property( $name, $value, $type); $type = text, date, number, bool
-#
-#
 #---------------------------------------------------------------------
 use utf8;use open qw(:std :utf8); use Encode qw(decode);#use Unicode::Collate; # for unicode string comparison
 #---------------------------------------------------------------------
