@@ -8,7 +8,7 @@ Then, there is a template file, which is the export of the grades section as an 
 
 The script takes as input:
   1. The name of the input xlsx file
-  2. The name of the output xlsx file
+  2. The name of the template xlsx file
   3. The column numbers where student numbers and grades are recorded in your input xlsx file.
   
 Columns are counted by starting from 1 for column A.
